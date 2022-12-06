@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4a0333-5c7c-4ca7-a374-379cd7a4c52e" name="Changes" comment="Вместо большая преогромная">
-      <change beforePath="$PROJECT_DIR$/repka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/repka.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repka_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/repka_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repka_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/repka_3.txt" afterDir="false" />
+    <list default="true" id="6c4a0333-5c7c-4ca7-a374-379cd7a4c52e" name="Changes" comment="Уточнение про репку.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Татьяна/PycharmProjects/probe"
+    "last_opened_file_path": "C:/Users/Татьяна/Курсы/[SkillBox] [Вадим Шандринов] Python-разработчик/1.1. Настройка окружения/Доп. материалы/lesson_001"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -130,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670338213755</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Несколько строк про репку.">
+      <created>1670338593877</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670338593877</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Уточнение про репку.">
+      <created>1670338620230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670338620230</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +162,8 @@
     <MESSAGE value="Смотрим, что в трёх файлах." />
     <MESSAGE value="Некто стал дедом." />
     <MESSAGE value="Вместо большая преогромная" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вместо большая преогромная" />
+    <MESSAGE value="Несколько строк про репку." />
+    <MESSAGE value="Уточнение про репку." />
+    <option name="LAST_COMMIT_MESSAGE" value="Уточнение про репку." />
   </component>
 </project>
